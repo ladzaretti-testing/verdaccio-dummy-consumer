@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@registry-test/dummy-dep": "1.0.0"
+    "@registry-test/dummy-dep": "1.1.0"
   }
 }
